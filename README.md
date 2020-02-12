@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is a microblog and is being developed by [Oleksandr Lysenko](https://www.linkedin.com/in/oleksandr-lysenko/) a listener of *Ruby Crash Course 2020 [Soft Serve]*.
 
-Things you may want to cover:
+* Ruby version ~> 2.5.6
 
-* Ruby version
+* Rails version ~> 5.1.7
 
-* System dependencies
+* Database creation ~> sqlite3
 
-* Configuration
+...
 
-* Database creation
+# Ruby on Rails Tutorial
 
-* Database initialization
+## Part II. Toy_app
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
